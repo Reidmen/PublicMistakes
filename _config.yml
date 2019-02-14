@@ -10,16 +10,16 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Introduction"
+title                    : "Minimal Website"
 title_separator          : "-"
-name                     : "Reidmen Aróstica B."
-description              : "An experimental website..."
+name                     : "Reidmen Aróstica"
+description              : "Minimal Mistake Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,7 +85,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Reidmen Aróstica B."
   avatar           : "/assets/images/gh-facephoto.jpg"
-  bio              : "A Curious Person!."
-  location         : "Santiago, Chile"
+  bio              : "Mathematical Engineering and Master Candidate at the University of Chile. Fan of PDE's, Scientific, Front & Backend Development in Python!"
+  location         : "Currently in Santiago, Chile"
   email            : "reidmen@dim.uchile.cl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:reidmen@dim.uchile.cl
+      url: mailto:reidmen@dim.uchile.cl
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,13 +123,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/reidmen.arostica"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/reidmen"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/reidmen.arostica"
 
 # Site Footer
 footer:
@@ -139,10 +139,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/reidmen.arostica"
+      url: "https://facebook.com/reidmen.arostica"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Reidmen"
+      url: "https://github.com/reidmen"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/reidmen.arostica"
 
 
 # Reading Files

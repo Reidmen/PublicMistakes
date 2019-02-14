@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Reidmen Aróstica B."
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/gh-facephoto.jpg"
   bio              : "A Curious Person!."
   location         : "Santiago, Chile"
   email            : "reidmen@dim.uchile.cl"

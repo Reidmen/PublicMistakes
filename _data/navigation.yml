@@ -4,8 +4,10 @@ main:
     url: http://reidmen.github.io/PublicPresentation/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Posts (Testing!)"
+  - title: "Posts"
     url: /year-archive/
+  - title: "Resumé"
+    url: /assets/images/ReidmenCV.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

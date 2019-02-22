@@ -5,7 +5,7 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Posts"
-    url: /_posts/
+    url: /collection-archive/
   - title: "Resumé"
     url: /assets/images/ReidmenCV.pdf
   # - title: "Sample Collections"

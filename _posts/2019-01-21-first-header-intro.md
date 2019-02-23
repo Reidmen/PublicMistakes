@@ -1,50 +1,43 @@
 ---
-title: "Layout: Header Image and Text Readability"
+title: "Objectives for the following months"
 header:
-  image: /assets/images/CorticalBoneS1000OPT20.png
-  caption: "Photo: [**Generated**](https://github.com/Reidmen)"
+  image: /assets/images/CorticalBoneS1000OPT20-View.png
+  caption: "Photo: [**From Reidmen Repository**](https://github.com/Reidmen)"
 tags: 
-  - sample post
-  - readability
-  - test
+  - objectives
+  - review
+  - q-learning
+  - cython
+  - fenics
 ---
 
-This is a sample post with a large feature image[^1] up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+Featuring with a beautiful corticla bone mesh[^1] this post introduces the main objectives to develop for the following months.
+Hopefully all the items will be developed, and mainly shown in a investigation-like perspective in ´´Python, Julia or C++´´ implementations. 
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. *Ea fashion axe [Marfa cillum aliquip](#). Retro Bushwick keytar cliche.* Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+I expect to describe and show to all the reader, detailed journey on numerical implementations of q-learning models oriented to finance, study neural nets in various setting (the study of LSTM, Convolutional layers for example) being particularly my attention towards deep q-learning methods! and the so-called meta-learning.
+On the other hand, I expect to develop a basic Flask app, deployed using ´´Docker´´ with finance-like prediction scenarios. 
 
-## Cupidatat 90's lo-fi authentic try-hard
+In a mechanical oriented setting, I will post several study cases of ´´´FEniCS´´ usage, image processing toolbox and numerical implementation of various PDE-related problems.
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. **[Terry Richardson](#) shabby chic +1**, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+## Objectives
 
-  * Sartorial hoodie
-  * Labore viral forage
-  * Tote bag selvage
-  * DIY exercitation et id ugh tumblr church-key
+As mentioned before, the main objectives are separated in two-classes:
+One direction of study using policy-learners in the context of reinforcement-learning:
+  * Study the on-policy and off-policy approaches with test case studies...
+  * Implementations of Python in test cases oriented towards finance prediction tasks or time-related sets.
+  * Introduction to meta-learning and possible applications on PDE-like problems!.
+  * Everything else that can be found in this area!.
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+The other direction in related to work I've already done in the context of biomechanical models
+* Study a proposed ultrasounic tool to describe bone parameters.
+* Describe numerical implementation of the direct and inverse problems related.
+* Mesh generation procedures with cool simulations.
+* Some other works oriented in scientific computing with PDE-like formulations.
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+## Question hoping to be tacke...
 
-## Forage occaecat cardigan qui
+There is a natural expectaction to neural nets to be good approximators of realistic complex models (for example in the sense of NP problems in Complexity Theory), therefore since we are in a time with vast ammount of procedures, techniques such as Finite Element Method (FEM) or similar techniques are becoming too specific. Could they become shadowed by parametrize approximators that *learn* the mode using sample data? [^2]
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
-
-[^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
-m
+[^1]: Mesh Generated with state-of-art library [iso2mesh](http://iso2mesh.sourceforge.net/cgi-bin/index.cgi)
+[^2]: Awesome MIT lecture of [Ilya Sutskever](https://www.youtube.com/watch?v=9EN_HoEk3KY)

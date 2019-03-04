@@ -12,12 +12,12 @@ tags:
 ---
 
 Featuring with a beautiful corticla bone mesh[^1] this post introduces the main objectives to develop for the following months.
-Hopefully all the items will be developed, and mainly shown in a investigation-like perspective in ´´Python, Julia or C++´´ implementations. 
+Hopefully all the items will be developed, and mainly shown in a investigation-like perspective in `Python, Julia or C++` implementations. 
 
 I expect to describe and show to all the reader, detailed journey on numerical implementations of q-learning models oriented to finance, study neural nets in various setting (the study of LSTM, Convolutional layers for example) being particularly my attention towards deep q-learning methods! and the so-called meta-learning.
-On the other hand, I expect to develop a basic Flask app, deployed using ´´Docker´´ with finance-like prediction scenarios. 
+On the other hand, I expect to develop a basic Flask app, deployed using `Docker` with finance-like prediction scenarios. 
 
-In a mechanical oriented setting, I will post several study cases of ´´´FEniCS´´ usage, image processing toolbox and numerical implementation of various PDE-related problems.
+In a mechanical oriented setting, I will post several study cases of `FEniCS` usage, image processing toolbox and numerical implementation of various PDE-related problems.
 
 ## Objectives
 

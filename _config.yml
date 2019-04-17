@@ -20,7 +20,7 @@ title                    : "Minimal Website"
 title_separator          : "-"
 name                     : "Reidmen Aróstica"
 description              : "Public Blog with curious stuff!"
-url                      : https://reidmen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://reidmen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/PublicMistakes" # the subpath of your site, e.g. "/blog"
 repository               : "Reidmen/PublicMistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Reidmen Aróstica B."
   avatar           : "/assets/images/gh-facephoto.jpg"
-  bio              : "Mathematical Engineering and Master Candidate at the University of Chile. Fan of PDE's, Scientific, Front & Backend Development in Python!"
+  bio              : "M.S. In Applied Mathematics and B.Sc.Eng in Mathematics. Fan of Scientific Computing, Front & Backend Development in Python!"
   location         : "Currently in Santiago, Chile"
   email            : "reidmen@dim.uchile.cl"
   links:

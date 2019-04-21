@@ -32,9 +32,9 @@ Different models are proposed, in time and frequency domains using the asymtotic
 
 ## Mesh Generation
 Following the same trend as before, a schematic mesh generation is implemented on ipynb files, using `octave` kernel in combination with `iso2mesh` library.
-In this case, on a ipynb it is assessed the mesh generation from bmp cortical bone images after resizing (to be able to use on personal computers). It describes a full procedure to process images from computational tomography stacks, generate the volumetric image associated to the stack and mesh it using ´´iso2mesh´´ library. [Code](https://reidmen.github.io/PublicMistakes/assets/implementations/FileMesh-Scaled.ipynb)
+In this case, on a ipynb it is assessed the mesh generation from bmp cortical bone images after resizing (to be able to use on personal computers). It describes a full procedure to process images from computational tomography stacks, generate the volumetric image associated to the stack and mesh it using `iso2mesh` library. [Code](https://reidmen.github.io/PublicMistakes/assets/implementations/FileMesh-Scaled.ipynb)
 
-Moreover, file convertion to XML file for ´´FEniCS´´ usage is also implemented for tethaedral meshes
+Moreover, file convertion to XML file for `FEniCS` usage is also implemented for tethaedral meshes
 The python implementation, creates useful XML file format enconding tethraedral meshes with possibly subdomains if it is the case. It requires as input the XYZ coordinate matrix of vertices and connectivity matrix related to the XYZ points. [Code XYZ to Mesh](http://https://reidmen.github.io/PublicMistakes/assets/implementations/XYZtoXMLMesh.py). Similarly, generation of meshes with tagged subdomains is implemented. [Code XYZ to Subdomains](https://reidmen.github.io/PublicMistakes/assets/implementations/XYZtoXMLSubdomains.py)
 
 

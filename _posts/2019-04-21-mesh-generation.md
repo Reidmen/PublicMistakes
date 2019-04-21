@@ -1,5 +1,5 @@
 ---
-title: "Objectives for the following months"
+title: "Ideas on Realistic Mesh Generation"
 header:
   image: /assets/images/DiagramMeshGeneration.png
   caption: "Photo: [**From Reidmen Repository**](https://github.com/Reidmen)"
@@ -43,4 +43,4 @@ The procedure describes a 3-step wise creation method from computed-tomography i
 
 [^1]: Mesh Generated with state-of-art library [iso2mesh](http://iso2mesh.sourceforge.net/cgi-bin/index.cgi)
 [^2]: Tetgen official website with mplementation [Hang Si](http://wias-berlin.de/software/tetgen/)
-[^3]: Homogenization Theory summary in PDF from Allaire [Allaire] (http://www.cmap.polytechnique.fr/~allaire/homog/lect1.pdf)
+[^3]: A well-known expert in Homgogenization Theory Allaire [Allaire] (http://www.cmap.polytechnique.fr/~allaire/)

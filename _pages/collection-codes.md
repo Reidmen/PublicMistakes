@@ -28,7 +28,7 @@ File is described by ipynb notebook. In this case, the homogenized elastic and v
 ## Elastodynamic models
 Files are separated regarding fully elastodynamic models without attenuation and attenuated models.
 Different models are proposed, in time and frequency domains using the asymtotic homogenization scheme.
-**NOT UPDATED!**
+**SOON UPDATES!**
 
 ## Mesh Generation
 Following the same trend as before, a schematic mesh generation is implemented on ipynb files, using `octave` kernel in combination with `iso2mesh` library.

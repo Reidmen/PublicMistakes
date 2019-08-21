@@ -4,8 +4,8 @@ main:
     url: http://reidmen.github.io/PublicPresentation/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Posts"
-    url: /collection-archive/
+  #- title: "Posts"
+  #  url: /collection-archive/
   - title: "Resumé"
     url: /assets/images/ReidmenCV.pdf
   # Added code section to store thesis codes

@@ -24,7 +24,6 @@ The scale we are more interested in is the so-called **mesoscale** which contain
 
 The point of studying this material is related to the various parameters that can be recovered, such as microstructure, accumulated stress damage, collagen quality, etc. All of them revelant to the early diagnose of osteoporosis, *a condition leading to skeletal fragility and increasing risk of fractures*. [^2]
 
-
 ![**2D-Slides ex-vivo Cortical Bone**](../assets/images/rec_sca03.gif)
 
 # Methods of Study
@@ -34,10 +33,10 @@ The early detection and prevention are active research lines. Here I mention jus
 
 * *X-ray Quanntitative Computed Tomography* (QCT) is used to assess volumetric bone density, but it's rather expensive with radiation costs involved.
 
-* **The promising alternative**: *Quantitative Ultrasound Measurements* (QUS) a technique that overcomes the previous aspects, providing a lower cost, non-invasive and non-radiative novel methodology that reach the gold-standard in bounded tests. [^3]
+* **The promising alternative**: *Quantitative Ultrasound Measurements* (QUS) a technique that overcomes the previous aspects, providing a lower cost, non-invasive and non-radiative novel methodology that reach the gold-standard in bounded tests. [^3].
 
 
 
 [^1]: W. Parnell and I. Abrahams et al. [iso2mesh](https://www.researchgate.net/publication/222785482_Homogenization_for_wave_propagation_in_periodic_fibre-reinforced_media_with_complex_microstructure_I-Theory)
 [^2]: J-G. Minonzio, N. Bochud, P. Laugier et al. [JG-Minonzio](https://www.ncbi.nlm.nih.gov/pubmed/30056165)
-[^3]: J. Foiret, J-G. Minonzio, M. Talmant, P. Laugier et al. [Foiret] (https://ieeexplore.ieee.org/document/6346132)
+[^3]: J. Foiret, J-G. Minonzio, M. Talmant, P. Laugier et al. [Foiret](https://ieeexplore.ieee.org/document/6346132)

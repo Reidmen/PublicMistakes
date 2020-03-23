@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/gh-facephoto.jpg"
   bio              : "M2 MATH Candidate Paris-Dauphine. Fan of Scientific Computing, Front & Backend Development in Python!"
   location         : "Currently in Paris, France"
-  email            : "reidmen.arostica@dauphine.eu"
+  #email            : "reidmen.arostica@dauphine.eu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -8,14 +8,18 @@ author_profile: true
 > Source Code is freely available to use the GNU Public License.
 
 # ENS-Challenge (*dreem*)
+
 Here is available the ipynb for the *dreem* ENS-Challenge at *College-de-France*, for the course of **Modèles Multiéchelles et Réseaux de Neurones Convolutifs** (Prof. Sthephane Mallat) [Code](https://reidmen.github.io/PublicMistakes/assets/implementations/Dreem-Challenge-CNNs.ipynb) -- Update: 23/03/2020
 Some important remarks on the implementation: The ipynb was tested on a **Docker** container with **TensorFlow** (v2.1.0).
 
 # Python Implementations
+
 This collection contains all implementation within the Engineering Degree project.
 They are organized regarding the type (Elastic and Viscous cells problems, Elastodynamic models, Mesh Generation).
 ## Cell Problems
+
 They are described by ipynb files each case.
+
 * 2-Dimensional Models
   
   * Modelling the cell problem using square type microstructure, with circular inclusion defining the porosity. [Code](https://reidmen.github.io/PublicMistakes/assets/implementations/HomProblemTest2D.ipynb)

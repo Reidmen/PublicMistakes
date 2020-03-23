@@ -8,7 +8,7 @@ main:
   #  url: /collection-archive/
   - title: "Resumé"
     url: /assets/images/ReidmenCV.pdf
-  # Added code section to store thesis codes
+  # Added code section to store different codes!
   - title: "Codes"
     url: /collection-codes/
   # - title: "Sitemap"

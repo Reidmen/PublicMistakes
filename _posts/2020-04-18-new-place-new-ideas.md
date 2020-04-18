@@ -18,7 +18,7 @@ Mais, compte tenu des circonstances, j'ai reçu une très belle proposition de t
 
 Même si je vais probablement perdre de nombreuses opportunités en changeant et en me rendant dans un endroit un peu moins connu, la possibilité d'acquérir de nouvelles techniques et de m'expérimenter dans un groupe bien développé exerce ma nature intrinsèquement curieuse à explorer et à apprendre quelque chose de significatif par rapport à ce que cela signifie d'être en vie.
 
-# What it means changing place to me
+## What it means changing place to me
 
 What I've learn during this long journey about working in different places, learning new pleople and relating in different languages is that even though we might fell the insecurity of changing to a new place and going into the unknown, life is too short to remain quiet and still in one place even when the possibilities around the world are enormous.
 

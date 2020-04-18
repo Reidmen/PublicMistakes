@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Reidmen Aróstica B."
-  avatar           : "/assets/images/gh-facephoto.jpg"
-  bio              : "M2 MATH Candidate Paris-Dauphine. Fan of Scientific Computing, Front & Backend Development in Python!"
+  avatar           : "/assets/images/gh-facephoto-new.jpg"
+  bio              : "PhD. Kandidaat Ruijsuniversitat Groningen (RUG), M2 Paris-Dauphine. Fan of Scientific Computing, Front & Backend Development in Python!"
   location         : "Currently in Paris, France"
-  #email            : "reidmen.arostica@dauphine.eu"
+  #email            : "reidmen.arostica@dauphine.eu" # "r.a.arostica.barrera@rug.nl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:reidmen.arostica@dauphine.eu
+      url: mailto:r.a.arostica.barrera@rug.nl
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -222,7 +222,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
